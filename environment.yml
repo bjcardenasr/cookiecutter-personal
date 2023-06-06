@@ -1,0 +1,5 @@
+name: cookiecutter-personal
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/bjcardenasr/anaconda3/ab/envs/cookiecutter-personal
